@@ -47,8 +47,3 @@ ___
 <p align="center">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azry Cb" />
 </p>
-
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
