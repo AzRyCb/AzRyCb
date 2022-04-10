@@ -31,8 +31,8 @@ ___
 
 ### 📉 My Stats
 
-![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=FahriAdison&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=FahriAdison&layout=compact&theme=highcontrast)
+![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AzRyCb&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&layout=compact&theme=highcontrast)
 
 ### 💻 SC
 
@@ -61,6 +61,4 @@ ___
 
 
 ## AzRyCb stat
-![Ra Github stat](https://github-readme-stats.vercel.app/api?username=AzRyCb&theme=midnight-purple&show_icons=true) 
 
-![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
