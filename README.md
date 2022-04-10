@@ -1,5 +1,5 @@
 ## Hello IM AzRy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
-<a href="https://github.com/FahriAdison"><img src="https://cardivo.vercel.app/api?name=Fahri&description=Hi,%20i%27m%20Fahri%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://wallpaperaccess.com/full/7857767.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@senpai_chan_gemoy&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" /><a>
+<a href="https://github.com/AzRyCb"><img src="https://cardivo.vercel.app/api?name=AzRy&description=Hi,%20i%27m%20Fahri%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://wallpaperaccess.com/full/7857767.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@senpai_chan_gemoy&github=AzRyCb&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 ### [`👇  INTRO MY SELF`]
@@ -37,19 +37,19 @@ ___
 ### 💻 SC
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Marin-MD-V2&theme=highcontrast)](https://github.com/FahriAdison/Marin-MD-V2)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Ran-Bot&theme=highcontrast)](https://github.com/FahriAdison/Ran-Bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Marin-MD-V2&theme=highcontrast)](https://github.com/AzRyCb/ForBotz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Ran-Bot&theme=highcontrast)](https://github.com/AzRyCb/Api-Github)
 
 ### 🏆 Trophy
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
    
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzRyCb" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azry Cb" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FahriAdison&label=VIEWS&style=flat-square&color=orange" />
+  <img src="https://komarev.com/ghpvc/?username=AzRyCb&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
@@ -58,7 +58,3 @@ ___
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
-
-
-## AzRyCb stat
-
