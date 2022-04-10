@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## AzRyCb stat
+![Ra Github stat](https://github-readme-stats.vercel.app/api?username=AzRyCb&theme=midnight-purple&show_icons=true) 
+
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
