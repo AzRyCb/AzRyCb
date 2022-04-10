@@ -52,8 +52,6 @@ ___
   <img src="https://komarev.com/ghpvc/?username=AzRyCb&label=VIEWS&style=flat-square&color=orange" />
 </p>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="600" />
-
 
 <!--START_SECTION:waka-->
 
