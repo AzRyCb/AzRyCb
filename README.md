@@ -1,4 +1,4 @@
-## Hello IM Fahri <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
+## Hello IM AzRy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://www.gambaranimasi.org/data/media/1904/animasi-bergerak-smiley-kacamata-hitam-0109.gif" width="23px">
 <a href="https://github.com/FahriAdison"><img src="https://cardivo.vercel.app/api?name=Fahri&description=Hi,%20i%27m%20Fahri%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://wallpaperaccess.com/full/7857767.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@senpai_chan_gemoy&github=FahriAdison&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
@@ -6,10 +6,10 @@
 ```
 Intro =
 
-"Name": "Fahri Adison",
+"Name": "AzRy",
 "Status": "Learning,Helping",
-"Address": "Air Molek, Kabupaten Indragiri Hulu, Indonesia",
-"Birthday": "June - 06"
+"Address": "Parongpong, Kabupaten bandung barat, Indonesia",
+"Birthday": "september - 09"
    
   "Big Thanks To"
    "- Allah SWT"
@@ -34,7 +34,7 @@ ___
 ![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=FahriAdison&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=FahriAdison&layout=compact&theme=highcontrast)
 
-### 💻 SC Bot Wa
+### 💻 SC
 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Marin-MD-V2&theme=highcontrast)](https://github.com/FahriAdison/Marin-MD-V2)
@@ -42,10 +42,10 @@ ___
 
 ### 🏆 Trophy
 
-![](https://github-profile-trophy.vercel.app/?username=FahriAdison&row=2&column=3&layout=compact&theme=onedark)
-
+![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
+   
 <p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FahriAdison" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AzRyCb" />
 </p>
 
 <p align="center">
