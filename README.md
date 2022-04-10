@@ -37,8 +37,8 @@ ___
 ### 💻 SC
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Marin-MD-V2&theme=highcontrast)](https://github.com/AzRyCb/ForBotz)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FahriAdison&repo=Ran-Bot&theme=highcontrast)](https://github.com/AzRyCb/Api-Github)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=ForBotz&theme=highcontrast)](https://github.com/AzRyCb/ForBotz)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=Api-Github&theme=highcontrast)](https://github.com/AzRyCb/Api-Github)
 
 ### 🏆 Trophy
 
