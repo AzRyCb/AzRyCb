@@ -44,6 +44,3 @@ ___
 
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
    
-<p align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azry Cb" />
-</p>
