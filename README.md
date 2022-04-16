@@ -31,11 +31,8 @@ ___
 
 ### 📉 My Stats
 
-![github card](https://github-readme-stats.vercel.app/api?username=PilarV2&show_icons=true&theme=radical)
-   
-![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AzRyCb&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
+![github card](https://github-readme-stats.vercel.app/api?username=AzRyCb&show_icons=true&theme=radical)
 
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&layout=compact&theme=highcontrast)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzRyCb&theme=monokai)
 
@@ -46,6 +43,7 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=Api-Github&theme=highcontrast)](https://github.com/AzRyCb/Api-Github)
 
 ### 🏆 Trophy
-
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&layout=compact&theme=highcontrast)
+   
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
    
