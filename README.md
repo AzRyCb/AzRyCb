@@ -31,8 +31,13 @@ ___
 
 ### 📉 My Stats
 
+![github card](https://github-readme-stats.vercel.app/api?username=PilarV2&show_icons=true&theme=radical)
+   
 ![Akira Github Statistic](https://github-readme-stats.vercel.app/api?username=AzRyCb&layout=compact&show_icons=true&theme=highcontrast&show_owner=true)
+
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&layout=compact&theme=highcontrast)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzRyCb&theme=monokai)
 
 ### 💻 SC
 
