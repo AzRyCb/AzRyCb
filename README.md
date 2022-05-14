@@ -43,6 +43,7 @@ ___
    
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
  
+<div align="center">
 ---
 ### Statistik 🔭 Repo
 ! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=Kangsad01&repo=bot-md&theme=dark)
