@@ -47,3 +47,21 @@ ___
    
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
    
+ <dtail>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+! [Piala Github] (https://github-profile-trophy.vercel.app/?username=Kangsad01)
+
+</detail>
+
+<dtail>
+ <summary>&#127942 <b>Gihub Aktivitas</b></summary><br/>
+
+! [Metrik] (https://metrics.lecoq.io/Kangsad01?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2Fsurabaya)
+
+</detail> 
+
+! [](https://visitor-badge.glitch.me/badge?page_id=Kangsad01)
+
+---
+   
