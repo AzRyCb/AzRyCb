@@ -32,13 +32,9 @@ ___
 ### 📉 My Stats
 
 ![github card](https://github-readme-stats.vercel.app/api?username=AzRyCb&show_icons=true&theme=radical)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzRyCb&theme=monokai)
 
 ### 💻 SC
-
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=ForBotz&theme=highcontrast)](https://github.com/AzRyCb/ForBotz)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=Api-Github&theme=highcontrast)](https://github.com/AzRyCb/Api-Github)
 
@@ -69,3 +65,10 @@ ___
 ! [](https://visitor-badge.glitch.me/badge?page_id=Kangsad01)
 
 ---
+
+
+
+<h3 align="left">Visitor</h3>
+<p align="center">
+<img src="https://count.caliphdev.my.id/get/@Kangsad01?theme=rule34" alt="visitor.svg">
+</p>
