@@ -43,6 +43,9 @@ ___
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&layout=compact&theme=highcontrast)
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
  
+---
+## Halo, Im [The.sad.boy01](https://instagram.com/the.sad.boy01) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
+
 <p align="center">
  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.; Nama saya+adalah+The.sad.boy01; Belajar++JavaScript.; jangan+bully+saia%2C++Bwang+%3A).; Terima kasih+kamu+untuk+perhatianmu."alt="budii">
 </p>
