@@ -46,7 +46,8 @@ ___
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&layout=compact&theme=highcontrast)
    
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
-   
+ 
+---
 ### Statistik 🔭 Repo
 ! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=Kangsad01&repo=bot-md&theme=dark)
 
