@@ -43,6 +43,17 @@ ___
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&layout=compact&theme=highcontrast)
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
  
+<p align="center">
+ <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.; Nama saya+adalah+The.sad.boy01; Belajar++JavaScript.; jangan+bully+saia%2C++Bwang+%3A).; Terima kasih+kamu+untuk+perhatianmu."alt="budii">
+</p>
+
+## Hubungi saya!
+[! [WhatsApp] (https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)] (https://wa.me/62895336282144)
+
+### Media Sosial
+[! [YouTube] (https://img.shields.io/badge/THE.SAD.BOY01-red?style=for-the-badge&logo=youtube&logoColor=white)] (https://youtube.com/channel/UCVv3wC5Q7_juw-d9HepjpOQ)
+[! [Instagram] (https://img.shields.io/badge/The.sad.boy01-black?style=for-the-badge&logo=instagram&logoColor=white)] (https://instagram.com/the.sad.boy01)
+
 ## Statistik
 ! [Statistik GitHub Kangsad01] (https://github-readme-stats.vercel.app/api?username=Kangsad01&show_icons=true&theme=radical)
 <p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasyaganz&theme=radical&layout=compact"></a></p>
