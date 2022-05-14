@@ -43,6 +43,13 @@ ___
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&layout=compact&theme=highcontrast)
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
  
+# Profil Saya
+
+
+<img align="center" fit="fill" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+<div align="center">
+
 ---
 ## Halo, Im [The.sad.boy01](https://instagram.com/the.sad.boy01) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
 
