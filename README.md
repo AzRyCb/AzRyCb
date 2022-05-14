@@ -47,7 +47,11 @@ ___
    
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
    
- <dtail>
+### Statistik 🔭 Repo
+! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=Kangsad01&repo=bot-md&theme=dark)
+
+
+<dtail>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
 ! [Piala Github] (https://github-profile-trophy.vercel.app/?username=Kangsad01)
@@ -64,4 +68,3 @@ ___
 ! [](https://visitor-badge.glitch.me/badge?page_id=Kangsad01)
 
 ---
-   
