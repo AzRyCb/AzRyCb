@@ -24,6 +24,8 @@ ___
 </p>
 
 <div align="center">
+   
+---
 <a href="https://www.instagram.com/senpai_chan_gemoy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="bit.ly/Papah-Chan" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
 <a href="https://wa.me/6281268416245" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
@@ -40,12 +42,8 @@ ___
 
 ### 🏆 Trophy
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&layout=compact&theme=highcontrast)
-   
 ![Ra Github troppy](https://github-profile-trophy.vercel.app/?username=AzRyCb&theme=monokai)
  
-
-</p>
----
 ### Statistik 🔭 Repo
 ! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=Kangsad01&repo=bot-md&theme=dark)
 
