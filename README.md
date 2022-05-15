@@ -6,13 +6,18 @@
 <div align="center">
 
 ---
+___
 
-## Contact Me!
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62895336282144)
 
-### Sosial Media
-[![YouTube](https://img.shields.io/badge/THE.SAD.BOY01-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCVv3wC5Q7_juw-d9HepjpOQ)
-[![Instagram](https://img.shields.io/badge/The.sad.boy01-black?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/the.sad.boy01)
+<p align="center">
+📫 Ikuti Saya Di
+</p>
+
+<p align="center">
+<a href="https://www.instagram.com/senpai_chan_gemoy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="bit.ly/Papah-Chan" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/6281268416245" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+</p>
 
 ## Stats
 ![Kangsad01 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangsad01&show_icons=true&theme=radical)
