@@ -6,8 +6,6 @@
 <div align="center">
 
 ---
-___
-
 
 <p align="center">
 📫 Ikuti Saya Di
