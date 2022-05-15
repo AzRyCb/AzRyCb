@@ -63,6 +63,6 @@ Intro =
 
 <h3 align="left">Visitor</h3>
 <p align="center">
-<img src="https://count.caliphdev.my.id/get/@Kangsad01?theme=rule34" alt="visitor.svg">
+<img src="https://count.caliphdev.my.id/get/@AzRyCb?theme=rule34" alt="visitor.svg">
 </p>
 
