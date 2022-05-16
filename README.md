@@ -1,6 +1,4 @@
 # My-Profile
-
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
  
@@ -19,9 +17,7 @@ Intro =
 ```
 
 - 🔭 Saat ini saya sedang mengerjakan **Buckoid Android App**
-- 
 - 🌱 Saat ini saya sedang belajar **DevOps**
-
 - 💬 Tanyakan kepada saya tentang **Android, MEARN**
 
 - 📫 Cara menghubungi saya **rishavchanda0@gmail.com**
