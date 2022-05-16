@@ -4,15 +4,15 @@
  ### ['👇 INTRO DIRIKU']
 ```
 "Nama": "AzRy",
-"Status": "Belajar, Membantu",
+"Status": "Tidak ada yang tau",
 "Alamat": "Bandung Barat, Indonesia",
 "Ulang tahun": "september - 09"
 ```
-- 🔭 Saat ini saya sedang mengerjakan **sesuatu**
-- 🌱 Saat ini saya sedang belajar **DevOps**
-- 💬 Tanyakan kepada saya tentang **Android, MEARN**
-- 📫 Cara menghubungi saya **rishavchanda0@gmail.com**
-- ⚡ Fakta menyenangkan **Saya Lucu**
+- 🔭 Saat ini saya sedang mengerjakan **Sesuatu**
+- 🌱 Saat ini saya sedang belajar **JavaScript & HTML**
+- 💬 Tanyakan kepada saya tentang **Apapun**
+- 📫 Cara menghubungi saya **my.exmud@gmail.com**
+- ⚡ Fakta menyenangkan **Saya Gabut**
 
 <div align="center">
 
