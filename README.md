@@ -3,7 +3,6 @@
  
  ### ['👇 INTRO DIRIKU']
 ```
-Intro =
 "Nama": "AzRy",
 "Status": "Belajar, Membantu",
 "Alamat": "Bandung Barat, Indonesia",
