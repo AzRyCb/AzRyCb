@@ -8,19 +8,15 @@ Intro =
 "Status": "Belajar, Membantu",
 "Alamat": "Bandung Barat, Indonesia",
 "Ulang tahun": "september - 09"
-   
- "Terima kasih banyak untuk"
-   "- Allah SWT"
- "- Generasi Terakhir"
- "- dan teman-temanku"
-```
 
 - 🔭 Saat ini saya sedang mengerjakan **sesuatu**
 - 🌱 Saat ini saya sedang belajar **DevOps**
 - 💬 Tanyakan kepada saya tentang **Android, MEARN**
 - 📫 Cara menghubungi saya **rishavchanda0@gmail.com**
 - ⚡ Fakta menyenangkan **Saya Lucu**
-    
+```
+
+
 <div align="center">
 
 ---
