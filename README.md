@@ -1,6 +1,6 @@
 # My-Profile
 
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
 
 <a href="https://github.com/AzRyCb"><img src="https://cardivo.vercel.app/api?name=AzRy&description=Hi,%20i%27m%20AzRy%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://wallpaperaccess.com/full/7857767.jpg&usqp=CAU&backgroundColor=%23ecf0f1&instagram=@senpai_chan_gemoy&github=AzRyCb&pattern=leaf&colorPattern=%23eaeaeaea" /><a>
