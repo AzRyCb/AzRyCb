@@ -10,7 +10,6 @@
 ```
 - 🔭 Saat ini saya sedang mengerjakan **Sesuatu**
 - 🌱 Saat ini saya sedang belajar **JavaScript & HTML**
-- 💬 Tanyakan kepada saya tentang **Apapun**
 - 📫 Cara menghubungi saya **my.exmud@gmail.com**
 - ⚡ Fakta menyenangkan **Saya Gabut**
 
