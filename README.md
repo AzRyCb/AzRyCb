@@ -15,12 +15,10 @@ Intro =
  "- dan teman-temanku"
 ```
 
-- 🔭 Saat ini saya sedang mengerjakan **Buckoid Android App**
+- 🔭 Saat ini saya sedang mengerjakan **sesuatu**
 - 🌱 Saat ini saya sedang belajar **DevOps**
 - 💬 Tanyakan kepada saya tentang **Android, MEARN**
-
 - 📫 Cara menghubungi saya **rishavchanda0@gmail.com**
-
 - ⚡ Fakta menyenangkan **Saya Lucu**
     
 <div align="center">
