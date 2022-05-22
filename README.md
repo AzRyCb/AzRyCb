@@ -5,7 +5,7 @@
 ```
 "Nama": "AzRy",
 "Status": "Tidak ada yang tau",
-"Alamat": "Bandung Barat, Indonesia",
+"Alamat": "Bandung, Indonesia",
 "Ulang tahun": "september - 09"
 ```
 - 🔭 Saat ini saya sedang mengerjakan **Sesuatu**
