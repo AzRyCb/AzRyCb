@@ -29,6 +29,10 @@
 
 -----
 
+### Sc 🤸 ♂️ saya
+! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-v3&theme=dark)
+! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-md-v2&theme=nightowl)
+
 ## Stats
 [![AzRyCb's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AzRyCb&&theme=xcode)](https://github.com/AzRyCb)
 <p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api?username=hyzerr&show_icons=true&theme=radical"></a></p>
