@@ -33,10 +33,30 @@
 <p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasyaganz&theme=radical&layout=compact"></a></p>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
-### Sc 🤸 ♂️ saya
-! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-v3&theme=dark)
-! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-md-v2&theme=nightowl)
+<p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api?username=hyzerr&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyzerr&theme=radical&layout=compact"></a></p> 
 
+
+<p align="center">
+    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
+    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+</hal>
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+! [Piala Github] (https://github-profile-trophy.vercel.app/?username=hyzerr)
+
+</detail>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+! [Metrik] (https://metrics.lecoq.io/hyzerr)
+
+</detail> 
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
