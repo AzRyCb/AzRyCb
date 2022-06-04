@@ -29,9 +29,8 @@
 
 ## Stats
 [![AzRyCb's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AzRyCb&&theme=xcode)](https://github.com/AzRyCb)
-![Kangsad01 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kangsad01&show_icons=true&theme=radical)
-<p align="center"><a href="https://github.com/Kangsad01"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasyaganz&theme=radical&layout=compact"></a></p>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 <p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api?username=hyzerr&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyzerr&theme=radical&layout=compact"></a></p> 
