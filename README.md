@@ -30,14 +30,14 @@
 -----
 
 ### Sc
-! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=ForBotz&theme=dark)
-! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=qr-md&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=ForBotz&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=qr-md&theme=dark)
 
 ## Stats
 [![AzRyCb's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AzRyCb&&theme=xcode)](https://github.com/AzRyCb)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Botynyakamu&theme=monokai)
-<p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api?username=hyzerr&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyzerr&theme=radical&layout=compact"></a></p> 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzRyCb&theme=monokai)
+<p align="center"><a href="https://github.com/AzRyCb"><img src="https://github-readme-stats.vercel.app/api?username=AzRyCb&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/AzRyCb"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&theme=radical&layout=compact"></a></p> 
 
 
 <p align="center">
