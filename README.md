@@ -17,7 +17,6 @@
 
 ---
 
-<p align="center">
 📫 Ikuti Saya Di
 </p>
 
