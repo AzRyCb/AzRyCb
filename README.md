@@ -29,7 +29,7 @@
 
 -----
 
-### Sc 🤸 ♂️ saya
+### Sc
 ! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-v3&theme=dark)
 ! [kartu github] (https://github-readme-stats.vercel.app/api/pin/?username=hyzerr&repo=hyzer-md-v2&theme=nightowl)
 
@@ -37,14 +37,10 @@
 [![AzRyCb's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AzRyCb&&theme=xcode)](https://github.com/AzRyCb)
 <p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api?username=hyzerr&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/hyzerr"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyzerr&theme=radical&layout=compact"></a></p> 
- 
- <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
 
 <p align="center">
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 </hal>
