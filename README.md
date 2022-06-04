@@ -18,14 +18,12 @@
 ---
 📫 Ikuti Saya Di
 <p align="center">
-    <a href="https://instagram.com/zexyds_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/zexyds_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6287892711054"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/king.id"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/zexyds_"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-   
-  <a href="https://www.instagram.com/senpai_chan_gemoy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="bit.ly/Papah-Chan" target="_blank"><img src="https://img.shields.io/badge/YouTube-%231877F2.svg?&style=flat-square&logo=YouTube&logoColor=white" alt="YouTube"></a>
-  <a href="https://wa.me/6281268416245" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-%808080.svg?&style=flat-square&logo=Whatsapp&logoColor=white" alt="Whatsapp"></a>
+  <a href="https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw"><img src="https://img.shields.io/badge/YouTube-hyzer id-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw" /><br>
+ <amaan=HyzerOfficial&label=VIEWS&style=flat-square&color=orange" />
 </hal>
 
 -----
