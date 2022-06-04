@@ -48,14 +48,14 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-! [Piala Github] (https://github-profile-trophy.vercel.app/?username=hyzerr)
+! [Github Trophy] (https://github-profile-trophy.vercel.app/?username=hyzerr)
 
 </detail>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-! [Metrik] (https://metrics.lecoq.io/hyzerr)
+! [Metrics] (https://metrics.lecoq.io/hyzerr)
 
 </detail> 
 
