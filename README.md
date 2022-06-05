@@ -36,6 +36,7 @@
 ## Stats
 [![AzRyCb's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AzRyCb&&theme=xcode)](https://github.com/AzRyCb)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzRyCb&theme=monokai)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kannachann&theme=vue">
 <p align="center"><a href="https://github.com/AzRyCb"><img src="https://github-readme-stats.vercel.app/api?username=AzRyCb&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/AzRyCb"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&theme=radical&layout=compact"></a></p> 
 
