@@ -24,7 +24,7 @@
   <a href="https://t.me/zexyds_"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
   <a href="[https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw](https://www.youtube.com/channel/UCceRVpAWUvkeXm4XH83Zo6g)"><img src="https://img.shields.io/badge/YouTube-AzRyCb-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw" /><br>
  <amaan=AzRyCb&label=VIEWS&style=flat-square&color=orange" />
-  <a href="https://komarev.com/ghpvc/?username=hyzerr&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=hyzerr&color=green&style=flat-square&label=Profile+View"></a>
+  <a href="https://komarev.com/ghpvc/?username=AzRyCb&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=AzRyCb&color=green&style=flat-square&label=Profile+View"></a>
 </hal>                                                    
 
 -----
@@ -46,26 +46,19 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 </hal>
 <details>
-    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
-
-! [Metrics] (https://metrics.lecoq.io/hyzerr)
-
-</detail> 
-
-<details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Kangsad01)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=AzRyCb)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Kangsad01?)
+![Metrics](https://metrics.lecoq.io/AzRyCb?)
 </details> 
 
-![](https://visitor-badge.glitch.me/badge?page_id=Kangsad01)
+![](https://visitor-badge.glitch.me/badge?page_id=AzRyCb)
 
 ---
 
