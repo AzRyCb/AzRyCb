@@ -57,9 +57,6 @@
 
 ![Metrics](https://metrics.lecoq.io/AzRyCb?)
 </details> 
-
-![](https://visitor-badge.glitch.me/badge?page_id=AzRyCb)
-
 ---
 
 
