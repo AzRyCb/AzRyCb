@@ -38,6 +38,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AzRyCb&theme=monokai)
 <p align="center"><a href="https://github.com/AzRyCb"><img src="https://github-readme-stats.vercel.app/api?username=AzRyCb&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/AzRyCb"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&theme=radical&layout=compact"></a></p> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzRyCb&theme=vue">
 
 
 <p align="center">
