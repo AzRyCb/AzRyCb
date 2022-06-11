@@ -4,7 +4,7 @@
  ### ['👇 INTRO DIRIKU']
 ```bash
 "Nama": "AzRy",
-"Status": "Tidak ada yang tau",
+"Status": "frivate",
 "Alamat": "Bandung, Indonesia",
 "Ulang tahun": "september - 09"
 ```
@@ -31,7 +31,7 @@
 
 ### Sc
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=ForBotz&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=qr-md&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=bot-md&theme=dark)
 
 ## Stats
 [![AzRyCb's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AzRyCb&&theme=xcode)](https://github.com/AzRyCb)
@@ -64,4 +64,3 @@
 <p align="center">
 <img src="https://count.caliphdev.my.id/get/@AzRyCb?theme=rule34" alt="visitor.svg">
 </p>
-
