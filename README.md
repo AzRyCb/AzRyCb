@@ -8,9 +8,9 @@
 "Alamat": "Bandung, Indonesia",
 "Ulang tahun": "september - 09"
 ```
-- 🔭 Saat ini saya sedang mengerjakan **Sesuatu**
-- 🌱 Saat ini saya sedang belajar **JavaScript & HTML**
-- 📫 Cara menghubungi saya **my.exmud@gmail.com**
+- 🔭 Saya sedang mengerjakan **Sesuatu**
+- 🌱 Saya sedang belajar **JavaScript & HTML**
+- 📫 Hubungi saya di **my.exmud@gmail.com**
 - ⚡ Fakta menyenangkan **Saya Gabut**
 
 <div align="center">
