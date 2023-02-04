@@ -32,7 +32,7 @@
 
 ### Sc
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=ForBotz&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=bot-md&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=AzRyCb&repo=AzBoTz&theme=dark)
 
 ## Stats
 [![AzRyCb's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AzRyCb&&theme=xcode)](https://github.com/AzRyCb)
