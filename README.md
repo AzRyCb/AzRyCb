@@ -22,8 +22,8 @@
   <a href="https://instagram.com/z.ryww"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/6285722037770"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/z.ryww"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="https://t.me/AzRyww"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
-  <a href="[https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw](https://www.youtube.com/channel/UCceRVpAWUvkeXm4XH83Zo6g)"><img src="https://img.shields.io/badge/YouTube-AzRyCb-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw" /><br>
+  <a href="https://t.me/AzRiww"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="[https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw](https://www.youtube.com/channel/UCceRVpAWUvkeXm4XH83Zo6g)"><img src="https://img.shields.io/badge/YouTube-z.ryww-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCBtUyjfIclyuu7yXKS0dAMw" /><br>
  <amaan=AzRyCb&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://komarev.com/ghpvc/?username=AzRyCb&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=AzRyCb&color=green&style=flat-square&label=Profile+View"></a>
 </hal>                                                    
