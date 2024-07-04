@@ -11,7 +11,7 @@
 ```
 - 🔭 Saya sedang mengerjakan **Sesuatu**
 - 🌱 Saya sedang belajar **JavaScript & HTML**
-- 📫 Hubungi saya di **azry695@gmail.com**
+- 📫 Hubungi saya di instagram **@z.ryww*
 - ⚡ Fakta menyenangkan **Saya Gabut**
 
 <div align="center">
